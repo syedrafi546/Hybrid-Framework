@@ -1,0 +1,26 @@
+2022-01-17 15:11:00,052  INFO [main] Userregister_ui:26 - navigated to url 
+2022-01-17 15:11:07,004  INFO [main] Userregister_ui:38 - successfully account created for savaari.com
+2022-01-17 15:11:21,451  INFO [main] SignIn_ui:28 - navigated to url
+2022-01-17 15:11:27,685  INFO [main] SignIn_ui:41 - Login successfully
+2022-01-17 15:11:38,309  INFO [main] rentalcheck_ui:28 - navigated to url 
+2022-01-17 15:11:38,414  INFO [main] rentalcheck_ui:31 - car rental is avalible at user location
+2022-01-17 15:11:49,460  INFO [main] BookingforLocal_ui:30 - navigated to url
+2022-01-17 15:11:54,973  INFO [main] BookingforLocal_ui:42 - Login successfully
+2022-01-17 15:11:58,496  INFO [main] BookingforLocal_ui:48 - navigated to car selection successfully
+2022-01-17 15:12:09,136  INFO [main] MngBookings_ui:29 - navigated to url
+2022-01-17 15:12:14,646  INFO [main] MngBookings_ui:41 - Login successfully
+2022-01-17 15:12:21,863  INFO [main] MngBookings_ui:48 - all bookings are diplayed
+2022-01-17 15:12:29,103  INFO [main] ActUpdate_ui:30 - navigated to url
+2022-01-17 15:12:34,678  INFO [main] ActUpdate_ui:42 - Login successfully
+2022-01-17 15:12:40,857  INFO [main] ActUpdate_ui:55 - Settings update page navigated successfully
+2022-01-17 15:12:51,879  INFO [main] Terms_Cond_ui:28 - navigated to url 
+2022-01-17 15:12:51,989  INFO [main] Terms_Cond_ui:32 - Terms and conditions are displayed
+2022-01-17 15:13:06,919  INFO [main] ContInfo_ui:28 - navigated to url 
+2022-01-17 15:13:07,019  INFO [main] ContInfo_ui:31 - Contact Info of savaari are displayed
+2022-01-17 15:13:16,656  INFO [main] TripAdvisor_ui:29 - navigated to url
+2022-01-17 15:13:16,853  INFO [main] TripAdvisor_ui:32 - Trip Advisor page navigated successfully
+2022-01-17 15:13:29,926  INFO [main] AppDwnd_ui:28 - navigated to url 
+2022-01-17 15:13:30,078  INFO [main] AppDwnd_ui:32 - Savaari app downloading page navigated successfully
+2022-01-17 15:13:52,667  INFO [main] Logout_ui:30 - navigated to url
+2022-01-17 15:13:58,170  INFO [main] Logout_ui:42 - Login successfully
+2022-01-17 15:14:03,457  INFO [main] Logout_ui:49 - Log Out successfully

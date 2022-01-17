@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="utilities.listeners"/>
+<listener class-name="utilities.ExtentReporterNG"/>
+</listeners>
+  <test name="Test1">
+    <classes>
+      <class name="uistore.Userregister_ui"/>
+    </classes>
+  </test> 
+  <test name="Test2">
+    <classes>
+      <class name="uistore.SignIn_ui"/>
+    </classes>
+  </test>
+  <test name="Test3">
+    <classes>
+      <class name="uistore.rentalcheck_ui"/>
+    </classes>
+  </test>
+  <test name="Test4">
+    <classes>
+      <class name="uistore.BookingforLocal_ui"/>
+    </classes>
+  </test>
+  <test name="Test5">
+    <classes>
+      <class name="uistore.MngBookings_ui"/>
+    </classes>
+  </test>
+  <test name="Test6">
+    <classes>
+      <class name="uistore.ActUpdate_ui"/>
+    </classes>
+  </test>
+  <test name="Test7">
+    <classes>
+      <class name="uistore.Terms_Cond_ui"/>
+    </classes>
+  </test>
+  <test name="Test8">
+    <classes>
+      <class name="uistore.ContInfo_ui"/>
+    </classes>
+  </test>
+  <test name="Test9">
+    <classes>
+      <class name="uistore.TripAdvisor_ui"/>
+    </classes>
+  </test>
+  <test name="Test10">
+    <classes>
+      <class name="uistore.AppDwnd_ui"/>
+    </classes>
+  </test>
+  <test name="Test11">
+    <classes>
+      <class name="uistore.Logout_ui"/>
+    </classes>
+  </test>
+</suite>  

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T15:10:52 IST" name="Suite" finished-at="2022-01-17T15:14:08 IST" duration-ms="196142">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T15:10:52 IST" name="Test1" finished-at="2022-01-17T15:11:11 IST" duration-ms="19015">
+      <class name="uistore.Userregister_ui">
+        <test-method is-config="true" signature="initial()[pri:0, instance:uistore.Userregister_ui@76494737]" started-at="2022-01-17T15:10:52 IST" name="initial" finished-at="2022-01-17T15:10:54 IST" duration-ms="1698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="userregister()[pri:0, instance:uistore.Userregister_ui@76494737]" started-at="2022-01-17T15:10:54 IST" name="userregister" finished-at="2022-01-17T15:11:07 IST" duration-ms="12618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userregister -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:uistore.Userregister_ui@76494737]" started-at="2022-01-17T15:11:07 IST" name="aftertest" finished-at="2022-01-17T15:11:11 IST" duration-ms="4291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- uistore.Userregister_ui -->
+    </test> <!-- Test1 -->
+    <test started-at="2022-01-17T15:11:11 IST" name="Test2" finished-at="2022-01-17T15:11:28 IST" duration-ms="16449">
+      <class name="uistore.SignIn_ui">
+        <test-method is-config="true" signature="initial()[pri:0, instance:uistore.SignIn_ui@4722ef0c]" started-at="2022-01-17T15:11:11 IST" name="initial" finished-at="2022-01-17T15:11:12 IST" duration-ms="1004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="signinpage()[pri:0, instance:uistore.SignIn_ui@4722ef0c]" started-at="2022-01-17T15:11:12 IST" name="signinpage" finished-at="2022-01-17T15:11:27 IST" duration-ms="14958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinpage -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:uistore.SignIn_ui@4722ef0c]" started-at="2022-01-17T15:11:28 IST" name="aftertest" finished-at="2022-01-17T15:11:28 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- uistore.SignIn_ui -->
+    </test> <!-- Test2 -->
+    <test started-at="2022-01-17T15:11:28 IST" name="Test3" finished-at="2022-01-17T15:11:38 IST" duration-ms="10463">
+      <class name="uistore.rentalcheck_ui">
+        <test-method is-config="true" signature="initial()[pri:0, instance:uistore.rentalcheck_ui@26abb146]" started-at="2022-01-17T15:11:28 IST" name="initial" finished-at="2022-01-17T15:11:29 IST" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="rentalcheck()[pri:0, instance:uistore.rentalcheck_ui@26abb146]" started-at="2022-01-17T15:11:29 IST" name="rentalcheck" finished-at="2022-01-17T15:11:38 IST" duration-ms="8941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rentalcheck -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:uistore.rentalcheck_ui@26abb146]" started-at="2022-01-17T15:11:38 IST" name="aftertest" finished-at="2022-01-17T15:11:38 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- uistore.rentalcheck_ui -->
+    </test> <!-- Test3 -->
+    <test started-at="2022-01-17T15:11:38 IST" name="Test4" finished-at="2022-01-17T15:12:01 IST" duration-ms="23161">
+      <class name="uistore.BookingforLocal_ui">
+        <test-method is-config="true" signature="initial()[pri:0, instance:uistore.BookingforLocal_ui@5c7933ad]" started-at="2022-01-17T15:11:38 IST" name="initial" finished-at="2022-01-17T15:11:39 IST" duration-ms="1168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="BookingLocal()[pri:0, instance:uistore.BookingforLocal_ui@5c7933ad]" started-at="2022-01-17T15:11:39 IST" name="BookingLocal" finished-at="2022-01-17T15:12:01 IST" duration-ms="21677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookingLocal -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:uistore.BookingforLocal_ui@5c7933ad]" started-at="2022-01-17T15:12:01 IST" name="aftertest" finished-at="2022-01-17T15:12:01 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- uistore.BookingforLocal_ui -->
+    </test> <!-- Test4 -->
+    <test started-at="2022-01-17T15:12:01 IST" name="Test5" finished-at="2022-01-17T15:12:22 IST" duration-ms="20282">
+      <class name="uistore.MngBookings_ui">
+        <test-method is-config="true" signature="initial()[pri:0, instance:uistore.MngBookings_ui@2dfaea86]" started-at="2022-01-17T15:12:01 IST" name="initial" finished-at="2022-01-17T15:12:02 IST" duration-ms="999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="MngBookings()[pri:0, instance:uistore.MngBookings_ui@2dfaea86]" started-at="2022-01-17T15:12:02 IST" name="MngBookings" finished-at="2022-01-17T15:12:21 IST" duration-ms="19045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MngBookings -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:uistore.MngBookings_ui@2dfaea86]" started-at="2022-01-17T15:12:22 IST" name="aftertest" finished-at="2022-01-17T15:12:22 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- uistore.MngBookings_ui -->
+    </test> <!-- Test5 -->
+    <test started-at="2022-01-17T15:12:22 IST" name="Test6" finished-at="2022-01-17T15:12:41 IST" duration-ms="19044">
+      <class name="uistore.ActUpdate_ui">
+        <test-method is-config="true" signature="initial()[pri:0, instance:uistore.ActUpdate_ui@1c742ed4]" started-at="2022-01-17T15:12:22 IST" name="initial" finished-at="2022-01-17T15:12:22 IST" duration-ms="862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="Accountupd()[pri:0, instance:uistore.ActUpdate_ui@1c742ed4]" started-at="2022-01-17T15:12:22 IST" name="Accountupd" finished-at="2022-01-17T15:12:40 IST" duration-ms="17885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Accountupd -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:uistore.ActUpdate_ui@1c742ed4]" started-at="2022-01-17T15:12:41 IST" name="aftertest" finished-at="2022-01-17T15:12:41 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- uistore.ActUpdate_ui -->
+    </test> <!-- Test6 -->
+    <test started-at="2022-01-17T15:12:41 IST" name="Test7" finished-at="2022-01-17T15:12:52 IST" duration-ms="11053">
+      <class name="uistore.Terms_Cond_ui">
+        <test-method is-config="true" signature="initial()[pri:0, instance:uistore.Terms_Cond_ui@7e990ed7]" started-at="2022-01-17T15:12:41 IST" name="initial" finished-at="2022-01-17T15:12:42 IST" duration-ms="880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="TermsConditon()[pri:0, instance:uistore.Terms_Cond_ui@7e990ed7]" started-at="2022-01-17T15:12:42 IST" name="TermsConditon" finished-at="2022-01-17T15:12:51 IST" duration-ms="9948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TermsConditon -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:uistore.Terms_Cond_ui@7e990ed7]" started-at="2022-01-17T15:12:52 IST" name="aftertest" finished-at="2022-01-17T15:12:52 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- uistore.Terms_Cond_ui -->
+    </test> <!-- Test7 -->
+    <test started-at="2022-01-17T15:12:52 IST" name="Test8" finished-at="2022-01-17T15:13:07 IST" duration-ms="15040">
+      <class name="uistore.ContInfo_ui">
+        <test-method is-config="true" signature="initial()[pri:0, instance:uistore.ContInfo_ui@4b520ea8]" started-at="2022-01-17T15:12:52 IST" name="initial" finished-at="2022-01-17T15:12:53 IST" duration-ms="1027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="ContInfo()[pri:0, instance:uistore.ContInfo_ui@4b520ea8]" started-at="2022-01-17T15:12:53 IST" name="ContInfo" finished-at="2022-01-17T15:13:07 IST" duration-ms="13773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContInfo -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:uistore.ContInfo_ui@4b520ea8]" started-at="2022-01-17T15:13:07 IST" name="aftertest" finished-at="2022-01-17T15:13:07 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- uistore.ContInfo_ui -->
+    </test> <!-- Test8 -->
+    <test started-at="2022-01-17T15:13:07 IST" name="Test9" finished-at="2022-01-17T15:13:17 IST" duration-ms="10175">
+      <class name="uistore.TripAdvisor_ui">
+        <test-method is-config="true" signature="initial()[pri:0, instance:uistore.TripAdvisor_ui@34bde49d]" started-at="2022-01-17T15:13:07 IST" name="initial" finished-at="2022-01-17T15:13:08 IST" duration-ms="1207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="Tripadvisor()[pri:0, instance:uistore.TripAdvisor_ui@34bde49d]" started-at="2022-01-17T15:13:08 IST" name="Tripadvisor" finished-at="2022-01-17T15:13:16 IST" duration-ms="8378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tripadvisor -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:uistore.TripAdvisor_ui@34bde49d]" started-at="2022-01-17T15:13:17 IST" name="aftertest" finished-at="2022-01-17T15:13:17 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- uistore.TripAdvisor_ui -->
+    </test> <!-- Test9 -->
+    <test started-at="2022-01-17T15:13:17 IST" name="Test10" finished-at="2022-01-17T15:13:30 IST" duration-ms="13216">
+      <class name="uistore.AppDwnd_ui">
+        <test-method is-config="true" signature="initial()[pri:0, instance:uistore.AppDwnd_ui@7857fe2]" started-at="2022-01-17T15:13:17 IST" name="initial" finished-at="2022-01-17T15:13:18 IST" duration-ms="1139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="Appdownload()[pri:0, instance:uistore.AppDwnd_ui@7857fe2]" started-at="2022-01-17T15:13:18 IST" name="Appdownload" finished-at="2022-01-17T15:13:30 IST" duration-ms="11491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appdownload -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:uistore.AppDwnd_ui@7857fe2]" started-at="2022-01-17T15:13:30 IST" name="aftertest" finished-at="2022-01-17T15:13:30 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- uistore.AppDwnd_ui -->
+    </test> <!-- Test10 -->
+    <test started-at="2022-01-17T15:13:30 IST" name="Test11" finished-at="2022-01-17T15:14:08 IST" duration-ms="38116">
+      <class name="uistore.Logout_ui">
+        <test-method is-config="true" signature="initial()[pri:0, instance:uistore.Logout_ui@2657d4dd]" started-at="2022-01-17T15:13:30 IST" name="initial" finished-at="2022-01-17T15:13:34 IST" duration-ms="3849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="Logoutpage()[pri:0, instance:uistore.Logout_ui@2657d4dd]" started-at="2022-01-17T15:13:34 IST" name="Logoutpage" finished-at="2022-01-17T15:14:03 IST" duration-ms="28936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logoutpage -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:uistore.Logout_ui@2657d4dd]" started-at="2022-01-17T15:14:03 IST" name="aftertest" finished-at="2022-01-17T15:14:08 IST" duration-ms="4877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- uistore.Logout_ui -->
+    </test> <!-- Test11 -->
+  </suite> <!-- Suite -->
+</testng-results>
